@@ -1,3 +1,3 @@
 # twitter-clone-app
 
-### Ruby on Rails test  CRUP app
+### Ruby on Rails test RESTful app
